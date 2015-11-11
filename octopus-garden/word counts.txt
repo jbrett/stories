@@ -1,0 +1,6 @@
+Day 1: 874	Total: 874
+Day 2: 1261	Total: 2135
+Day 3: 1296	Total: 3431
+Day 4: 1930	Total: 5361
+Day 5: 859 	Total: 6220
+Day 6: 1663	Total: 7883
